@@ -5,3 +5,6 @@ c4c3c4% . env/bin/activate
 
 
 test -d env || virtualenv env
+
+pip install -r requirements.txt
+pip freeze
