@@ -1,0 +1,7 @@
+c4c3c4% . env/bin/activate
+(env) c4c3c4% which python3
+/home/joeberle/Documents/evals/alogarri/env/bin/python3
+(env) c4c3c4% 
+
+
+test -d env || virtualenv env
